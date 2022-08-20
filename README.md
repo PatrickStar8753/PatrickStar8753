@@ -1,6 +1,14 @@
-- 👋 Hi, I’m @PatrickStar8753
-- 👀 I’m interested in HTML/CSS
-- 🌱 I’m currently learning JavaScript
+# Привет,
+я *Макс*, или же *Patrick8753*, или же *Cat.*
+
+# Что я знаю?
+Я знаю `HTML` и `CSS`.
+
+# Что я изучаю прямо сейчас?
+Я изучаю `JavaScript`.
+
+# Кто я по жизни?
+*Front-End Еблан*
 
 <!---
 PatrickStar8753/PatrickStar8753 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

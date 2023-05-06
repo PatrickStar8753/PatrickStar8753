@@ -1,16 +1,11 @@
 # Привет,
-я *Макс*, или же *Patrick8753*, или же *Cat.*
+я *Макс*, AKA *Muralmaks IT*, *Cat.*
 
 # Что я знаю?
-Я знаю `HTML` и `CSS`.
+Я знаю `HTML`, `CSS` и `JS`.
 
 # Что я изучаю прямо сейчас?
-Я изучаю `JavaScript`.
+Ничего.
 
 # Кто я по жизни?
-*Front-End Еблан*
-
-<!---
-PatrickStar8753/PatrickStar8753 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Человек

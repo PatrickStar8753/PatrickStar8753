@@ -13,4 +13,6 @@
 
 • [absolutOS](https://absolutos.github.io)
 
+• [CatWeather](https://github.com/PatrickStar8753/CatWeather)
+
 • [grubhtml](https://patrickstar8753.github.io/grubhtml)

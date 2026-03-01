@@ -1,13 +1,16 @@
-![stat](https://github-readme-stats.vercel.app/api?username=patrickstar8753&hide_border=true&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515)
+<img height="100%" width="68px" src="https://github.com/user-attachments/assets/4f51642a-1c74-47c4-92ca-7684bd684802" align="left" />
 
-# Привет,
-я *Макс*, AKA *Muralmaks IT*, *Cat.*
+<img src="https://cat8753.ru/src/cot2A.png" height="142px" align="left">
+<h3>Cat.</h3>
+<p><i>AKA Muralmaks IT, Моксим., Максим, PatrickStar8753, cat8753</i></p>
 
-# Что я знаю?
-Я знаю `HTML`, `CSS` и `JS`.
+### Frontend-разработчик, ютубер, недофотограф и котик :3
+---
+### Проекты
+• [My wallpapers](https://my-wallpapers.cat8753.ru)
 
-# Что я изучаю прямо сейчас?
-Ничего.
+• [MWWI](https://github.com/PatrickStar8753/MyWallpapersWallpaperInstaller)
 
-# Кто я по жизни?
-Человек
+• [absolutOS](https://absolutos.github.io)
+
+• [grubhtml](https://patrickstar8753.github.io/grubhtml)
